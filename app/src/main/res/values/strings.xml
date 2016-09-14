@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CIS298inclass1</string>
+    <string name="question_text">The T in James T. Qirk stands to Tybirious</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="true_toast">correct</string>
+    <string name="false_toast">Wrong</string>
 </resources>
